@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "sift_ann_experiment_meta.py", line 38, in <module>
+    index.train_index(None, training_features=core_features)
+  File "/home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py", line 101, in train_index
+    self.preproc.train(training_features)
+  File "/home/wtheisen/anaconda3/lib/python3.7/site-packages/faiss/__init__.py", line 344, in replacement_vt_train
+    self.train_c(n, swig_ptr(x))
+  File "/home/wtheisen/anaconda3/lib/python3.7/site-packages/faiss/swigfaiss.py", line 1818, in train
+    return _swigfaiss.OPQMatrix_train(self, n, x)
+KeyboardInterrupt

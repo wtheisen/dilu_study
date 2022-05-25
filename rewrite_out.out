@@ -1,0 +1,8 @@
+  0%|          | 0/44612 [00:00<?, ?it/s] 47%|████▋     | 20925/44612 [00:00<00:00, 209247.21it/s] 94%|█████████▍| 41991/44612 [00:00<00:00, 209668.81it/s]100%|██████████| 44612/44612 [00:00<00:00, 208566.76it/s]searching /media/wtheisen/scratch2/chosenClusterImages
+[LOG]: Images sourced, writing map dicts...
+[LOG]: Beginning pre-feature-extraction processing...
+[WARNING]: Failed to create feature folder (may already exist)
+
+[LOG]: Image read
+meow
+surfin

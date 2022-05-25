@@ -1,0 +1,13 @@
+
+def queries_to_json(self, raw_queries):
+
+    query_dict = {}
+    for query_image_path, results in raw_queries:
+        results_dict = {}
+        for distance, ID in results:
+            results_dict[distance] = self.ID_to_path[ID]
+
+        query_dict[query_image_path] = results_dict
+
+    return query_dict
+

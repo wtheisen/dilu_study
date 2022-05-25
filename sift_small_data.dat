@@ -1,0 +1,320 @@
+Clustering 5001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.16362e+08 imbalance=1.533 nsplit=0         Iteration 1 (0.01 s, search 0.00 s): objective=2.15037e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.01 s, search 0.00 s): objective=2.05306e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.01 s, search 0.01 s): objective=2.01635e+08 imbalance=1.166 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=1.99746e+08 imbalance=1.155 nsplit=0         Iteration 5 (0.02 s, search 0.01 s): objective=1.9877e+08 imbalance=1.146 nsplit=0         Iteration 6 (0.03 s, search 0.01 s): objective=1.98074e+08 imbalance=1.137 nsplit=0         Iteration 7 (0.03 s, search 0.02 s): objective=1.97402e+08 imbalance=1.130 nsplit=0         Iteration 8 (0.03 s, search 0.02 s): objective=1.97013e+08 imbalance=1.125 nsplit=0         Iteration 9 (0.03 s, search 0.02 s): objective=1.96742e+08 imbalance=1.122 nsplit=0         Iteration 10 (0.03 s, search 0.02 s): objective=1.96517e+08 imbalance=1.122 nsplit=0         Iteration 11 (0.04 s, search 0.03 s): objective=1.96304e+08 imbalance=1.119 nsplit=0         Iteration 12 (0.05 s, search 0.03 s): objective=1.9614e+08 imbalance=1.117 nsplit=0         Iteration 13 (0.05 s, search 0.03 s): objective=1.96016e+08 imbalance=1.115 nsplit=0         Iteration 14 (0.05 s, search 0.03 s): objective=1.95879e+08 imbalance=1.113 nsplit=0         Iteration 15 (0.05 s, search 0.03 s): objective=1.95728e+08 imbalance=1.111 nsplit=0         Iteration 16 (0.06 s, search 0.04 s): objective=1.95597e+08 imbalance=1.111 nsplit=0         Iteration 17 (0.06 s, search 0.04 s): objective=1.95496e+08 imbalance=1.112 nsplit=0         Iteration 18 (0.07 s, search 0.04 s): objective=1.9541e+08 imbalance=1.111 nsplit=0         Iteration 19 (0.07 s, search 0.04 s): objective=1.95375e+08 imbalance=1.110 nsplit=0         Iteration 20 (0.07 s, search 0.05 s): objective=1.95332e+08 imbalance=1.110 nsplit=0         Iteration 21 (0.07 s, search 0.05 s): objective=1.95297e+08 imbalance=1.109 nsplit=0         Iteration 22 (0.08 s, search 0.05 s): objective=1.95268e+08 imbalance=1.109 nsplit=0         Iteration 23 (0.08 s, search 0.05 s): objective=1.95259e+08 imbalance=1.108 nsplit=0         Iteration 24 (0.08 s, search 0.05 s): objective=1.95249e+08 imbalance=1.108 nsplit=0       
+Clustering 5001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.16362e+08 imbalance=1.533 nsplit=0         Iteration 1 (0.01 s, search 0.00 s): objective=2.15037e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.01 s, search 0.00 s): objective=2.05306e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.01 s, search 0.01 s): objective=2.01635e+08 imbalance=1.166 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=1.99746e+08 imbalance=1.155 nsplit=0         Iteration 5 (0.02 s, search 0.01 s): objective=1.9877e+08 imbalance=1.146 nsplit=0         Iteration 6 (0.03 s, search 0.01 s): objective=1.98074e+08 imbalance=1.137 nsplit=0         Iteration 7 (0.03 s, search 0.02 s): objective=1.97402e+08 imbalance=1.130 nsplit=0         Iteration 8 (0.03 s, search 0.02 s): objective=1.97013e+08 imbalance=1.125 nsplit=0         Iteration 9 (0.04 s, search 0.02 s): objective=1.96742e+08 imbalance=1.122 nsplit=0         Iteration 10 (0.04 s, search 0.03 s): objective=1.96517e+08 imbalance=1.122 nsplit=0         Iteration 11 (0.05 s, search 0.03 s): objective=1.96304e+08 imbalance=1.119 nsplit=0         Iteration 12 (0.05 s, search 0.03 s): objective=1.9614e+08 imbalance=1.117 nsplit=0         Iteration 13 (0.05 s, search 0.03 s): objective=1.96016e+08 imbalance=1.115 nsplit=0         Iteration 14 (0.06 s, search 0.03 s): objective=1.95879e+08 imbalance=1.113 nsplit=0         Iteration 15 (0.06 s, search 0.04 s): objective=1.95728e+08 imbalance=1.111 nsplit=0         Iteration 16 (0.07 s, search 0.04 s): objective=1.95597e+08 imbalance=1.111 nsplit=0         Iteration 17 (0.07 s, search 0.04 s): objective=1.95496e+08 imbalance=1.112 nsplit=0         Iteration 18 (0.07 s, search 0.04 s): objective=1.9541e+08 imbalance=1.111 nsplit=0         Iteration 19 (0.08 s, search 0.04 s): objective=1.95375e+08 imbalance=1.110 nsplit=0         Iteration 20 (0.08 s, search 0.05 s): objective=1.95332e+08 imbalance=1.110 nsplit=0         Iteration 21 (0.08 s, search 0.05 s): objective=1.95297e+08 imbalance=1.109 nsplit=0         Iteration 22 (0.09 s, search 0.05 s): objective=1.95268e+08 imbalance=1.109 nsplit=0         Iteration 23 (0.09 s, search 0.05 s): objective=1.95259e+08 imbalance=1.108 nsplit=0         Iteration 24 (0.09 s, search 0.05 s): objective=1.95249e+08 imbalance=1.108 nsplit=0       
+Clustering 5001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.16362e+08 imbalance=1.533 nsplit=0         Iteration 1 (0.01 s, search 0.01 s): objective=2.15037e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.01 s, search 0.01 s): objective=2.05306e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.01 s, search 0.01 s): objective=2.01635e+08 imbalance=1.166 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=1.99746e+08 imbalance=1.155 nsplit=0         Iteration 5 (0.03 s, search 0.02 s): objective=1.9877e+08 imbalance=1.146 nsplit=0         Iteration 6 (0.03 s, search 0.02 s): objective=1.98074e+08 imbalance=1.137 nsplit=0         Iteration 7 (0.03 s, search 0.02 s): objective=1.97402e+08 imbalance=1.130 nsplit=0         Iteration 8 (0.03 s, search 0.03 s): objective=1.97013e+08 imbalance=1.125 nsplit=0         Iteration 9 (0.04 s, search 0.03 s): objective=1.96742e+08 imbalance=1.122 nsplit=0         Iteration 10 (0.05 s, search 0.03 s): objective=1.96517e+08 imbalance=1.122 nsplit=0         Iteration 11 (0.05 s, search 0.03 s): objective=1.96304e+08 imbalance=1.119 nsplit=0         Iteration 12 (0.05 s, search 0.03 s): objective=1.9614e+08 imbalance=1.117 nsplit=0         Iteration 13 (0.05 s, search 0.03 s): objective=1.96016e+08 imbalance=1.115 nsplit=0         Iteration 14 (0.06 s, search 0.04 s): objective=1.95879e+08 imbalance=1.113 nsplit=0         Iteration 15 (0.06 s, search 0.04 s): objective=1.95728e+08 imbalance=1.111 nsplit=0         Iteration 16 (0.07 s, search 0.04 s): objective=1.95597e+08 imbalance=1.111 nsplit=0         Iteration 17 (0.07 s, search 0.05 s): objective=1.95496e+08 imbalance=1.112 nsplit=0         Iteration 18 (0.07 s, search 0.05 s): objective=1.9541e+08 imbalance=1.111 nsplit=0         Iteration 19 (0.08 s, search 0.05 s): objective=1.95375e+08 imbalance=1.110 nsplit=0         Iteration 20 (0.08 s, search 0.05 s): objective=1.95332e+08 imbalance=1.110 nsplit=0         Iteration 21 (0.08 s, search 0.05 s): objective=1.95297e+08 imbalance=1.109 nsplit=0         Iteration 22 (0.08 s, search 0.05 s): objective=1.95268e+08 imbalance=1.109 nsplit=0         Iteration 23 (0.09 s, search 0.06 s): objective=1.95259e+08 imbalance=1.108 nsplit=0         Iteration 24 (0.09 s, search 0.06 s): objective=1.95249e+08 imbalance=1.108 nsplit=0       
+Clustering 6001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.59157e+08 imbalance=1.465 nsplit=0         Iteration 1 (0.01 s, search 0.00 s): objective=2.43215e+08 imbalance=1.257 nsplit=0         Iteration 2 (0.01 s, search 0.01 s): objective=2.35641e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.01 s, search 0.01 s): objective=2.32451e+08 imbalance=1.167 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=2.30603e+08 imbalance=1.158 nsplit=0         Iteration 5 (0.02 s, search 0.01 s): objective=2.29547e+08 imbalance=1.149 nsplit=0         Iteration 6 (0.02 s, search 0.01 s): objective=2.28889e+08 imbalance=1.144 nsplit=0         Iteration 7 (0.03 s, search 0.02 s): objective=2.28421e+08 imbalance=1.139 nsplit=0         Iteration 8 (0.03 s, search 0.02 s): objective=2.28111e+08 imbalance=1.136 nsplit=0         Iteration 9 (0.03 s, search 0.02 s): objective=2.27874e+08 imbalance=1.136 nsplit=0         Iteration 10 (0.04 s, search 0.02 s): objective=2.27698e+08 imbalance=1.136 nsplit=0         Iteration 11 (0.04 s, search 0.02 s): objective=2.2753e+08 imbalance=1.136 nsplit=0         Iteration 12 (0.04 s, search 0.03 s): objective=2.27368e+08 imbalance=1.136 nsplit=0         Iteration 13 (0.05 s, search 0.03 s): objective=2.27232e+08 imbalance=1.135 nsplit=0         Iteration 14 (0.05 s, search 0.03 s): objective=2.27154e+08 imbalance=1.135 nsplit=0         Iteration 15 (0.05 s, search 0.04 s): objective=2.27106e+08 imbalance=1.134 nsplit=0         Iteration 16 (0.06 s, search 0.04 s): objective=2.2707e+08 imbalance=1.135 nsplit=0         Iteration 17 (0.06 s, search 0.05 s): objective=2.27042e+08 imbalance=1.136 nsplit=0         Iteration 18 (0.07 s, search 0.05 s): objective=2.27015e+08 imbalance=1.136 nsplit=0         Iteration 19 (0.07 s, search 0.05 s): objective=2.26984e+08 imbalance=1.136 nsplit=0         Iteration 20 (0.07 s, search 0.05 s): objective=2.26955e+08 imbalance=1.136 nsplit=0         Iteration 21 (0.08 s, search 0.06 s): objective=2.2693e+08 imbalance=1.135 nsplit=0         Iteration 22 (0.08 s, search 0.06 s): objective=2.26918e+08 imbalance=1.134 nsplit=0         Iteration 23 (0.08 s, search 0.06 s): objective=2.26908e+08 imbalance=1.134 nsplit=0         Iteration 24 (0.09 s, search 0.07 s): objective=2.26901e+08 imbalance=1.134 nsplit=0       
+Clustering 5001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.16362e+08 imbalance=1.533 nsplit=0         Iteration 1 (0.01 s, search 0.01 s): objective=2.15037e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.01 s, search 0.01 s): objective=2.05306e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.01 s, search 0.01 s): objective=2.01635e+08 imbalance=1.166 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=1.99746e+08 imbalance=1.155 nsplit=0         Iteration 5 (0.02 s, search 0.01 s): objective=1.9877e+08 imbalance=1.146 nsplit=0         Iteration 6 (0.02 s, search 0.01 s): objective=1.98074e+08 imbalance=1.137 nsplit=0         Iteration 7 (0.02 s, search 0.02 s): objective=1.97402e+08 imbalance=1.130 nsplit=0         Iteration 8 (0.02 s, search 0.02 s): objective=1.97013e+08 imbalance=1.125 nsplit=0         Iteration 9 (0.02 s, search 0.02 s): objective=1.96742e+08 imbalance=1.122 nsplit=0         Iteration 10 (0.03 s, search 0.02 s): objective=1.96517e+08 imbalance=1.122 nsplit=0         Iteration 11 (0.03 s, search 0.02 s): objective=1.96304e+08 imbalance=1.119 nsplit=0         Iteration 12 (0.03 s, search 0.02 s): objective=1.9614e+08 imbalance=1.117 nsplit=0         Iteration 13 (0.03 s, search 0.03 s): objective=1.96016e+08 imbalance=1.115 nsplit=0         Iteration 14 (0.03 s, search 0.03 s): objective=1.95879e+08 imbalance=1.113 nsplit=0         Iteration 15 (0.04 s, search 0.03 s): objective=1.95728e+08 imbalance=1.111 nsplit=0         Iteration 16 (0.04 s, search 0.03 s): objective=1.95597e+08 imbalance=1.111 nsplit=0         Iteration 17 (0.04 s, search 0.03 s): objective=1.95496e+08 imbalance=1.112 nsplit=0         Iteration 18 (0.05 s, search 0.03 s): objective=1.9541e+08 imbalance=1.111 nsplit=0         Iteration 19 (0.05 s, search 0.04 s): objective=1.95375e+08 imbalance=1.110 nsplit=0         Iteration 20 (0.05 s, search 0.04 s): objective=1.95332e+08 imbalance=1.110 nsplit=0         Iteration 21 (0.05 s, search 0.04 s): objective=1.95297e+08 imbalance=1.109 nsplit=0         Iteration 22 (0.06 s, search 0.04 s): objective=1.95268e+08 imbalance=1.109 nsplit=0         Iteration 23 (0.06 s, search 0.04 s): objective=1.95259e+08 imbalance=1.108 nsplit=0         Iteration 24 (0.06 s, search 0.05 s): objective=1.95249e+08 imbalance=1.108 nsplit=0       
+Clustering 7001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=4.26739e+08 imbalance=1.749 nsplit=0         Iteration 1 (0.01 s, search 0.01 s): objective=2.89818e+08 imbalance=1.453 nsplit=0         Iteration 2 (0.01 s, search 0.01 s): objective=2.7808e+08 imbalance=1.345 nsplit=0         Iteration 3 (0.02 s, search 0.01 s): objective=2.73225e+08 imbalance=1.279 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=2.70254e+08 imbalance=1.245 nsplit=0         Iteration 5 (0.03 s, search 0.02 s): objective=2.68147e+08 imbalance=1.223 nsplit=0         Iteration 6 (0.03 s, search 0.02 s): objective=2.66628e+08 imbalance=1.207 nsplit=0         Iteration 7 (0.03 s, search 0.02 s): objective=2.6532e+08 imbalance=1.195 nsplit=0         Iteration 8 (0.03 s, search 0.02 s): objective=2.64187e+08 imbalance=1.186 nsplit=0         Iteration 9 (0.04 s, search 0.02 s): objective=2.63258e+08 imbalance=1.176 nsplit=0         Iteration 10 (0.04 s, search 0.03 s): objective=2.62631e+08 imbalance=1.170 nsplit=0         Iteration 11 (0.05 s, search 0.03 s): objective=2.62122e+08 imbalance=1.166 nsplit=0         Iteration 12 (0.05 s, search 0.03 s): objective=2.61711e+08 imbalance=1.161 nsplit=0         Iteration 13 (0.06 s, search 0.03 s): objective=2.61244e+08 imbalance=1.157 nsplit=0         Iteration 14 (0.06 s, search 0.03 s): objective=2.60937e+08 imbalance=1.152 nsplit=0         Iteration 15 (0.06 s, search 0.03 s): objective=2.60741e+08 imbalance=1.149 nsplit=0         Iteration 16 (0.07 s, search 0.04 s): objective=2.60577e+08 imbalance=1.147 nsplit=0         Iteration 17 (0.07 s, search 0.04 s): objective=2.60425e+08 imbalance=1.143 nsplit=0         Iteration 18 (0.08 s, search 0.04 s): objective=2.60286e+08 imbalance=1.143 nsplit=0         Iteration 19 (0.09 s, search 0.05 s): objective=2.60164e+08 imbalance=1.142 nsplit=0         Iteration 20 (0.09 s, search 0.05 s): objective=2.60122e+08 imbalance=1.143 nsplit=0         Iteration 21 (0.11 s, search 0.05 s): objective=2.60087e+08 imbalance=1.143 nsplit=0         Iteration 22 (0.12 s, search 0.06 s): objective=2.60061e+08 imbalance=1.143 nsplit=0         Iteration 23 (0.12 s, search 0.06 s): objective=2.60038e+08 imbalance=1.143 nsplit=0         Iteration 24 (0.13 s, search 0.06 s): objective=2.60031e+08 imbalance=1.143 nsplit=0       
+Clustering 5001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.16362e+08 imbalance=1.533 nsplit=0         Iteration 1 (0.01 s, search 0.01 s): objective=2.15037e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.02 s, search 0.01 s): objective=2.05306e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.02 s, search 0.01 s): objective=2.01635e+08 imbalance=1.166 nsplit=0         Iteration 4 (0.02 s, search 0.02 s): objective=1.99746e+08 imbalance=1.155 nsplit=0         Iteration 5 (0.03 s, search 0.02 s): objective=1.9877e+08 imbalance=1.146 nsplit=0         Iteration 6 (0.03 s, search 0.02 s): objective=1.98074e+08 imbalance=1.137 nsplit=0         Iteration 7 (0.03 s, search 0.02 s): objective=1.97402e+08 imbalance=1.130 nsplit=0         Iteration 8 (0.03 s, search 0.03 s): objective=1.97013e+08 imbalance=1.125 nsplit=0         Iteration 9 (0.04 s, search 0.03 s): objective=1.96742e+08 imbalance=1.122 nsplit=0         Iteration 10 (0.04 s, search 0.03 s): objective=1.96517e+08 imbalance=1.122 nsplit=0         Iteration 11 (0.04 s, search 0.03 s): objective=1.96304e+08 imbalance=1.119 nsplit=0         Iteration 12 (0.04 s, search 0.03 s): objective=1.9614e+08 imbalance=1.117 nsplit=0         Iteration 13 (0.05 s, search 0.03 s): objective=1.96016e+08 imbalance=1.115 nsplit=0         Iteration 14 (0.05 s, search 0.03 s): objective=1.95879e+08 imbalance=1.113 nsplit=0         Iteration 15 (0.05 s, search 0.04 s): objective=1.95728e+08 imbalance=1.111 nsplit=0         Iteration 16 (0.05 s, search 0.04 s): objective=1.95597e+08 imbalance=1.111 nsplit=0         Iteration 17 (0.06 s, search 0.04 s): objective=1.95496e+08 imbalance=1.112 nsplit=0         Iteration 18 (0.06 s, search 0.04 s): objective=1.9541e+08 imbalance=1.111 nsplit=0         Iteration 19 (0.06 s, search 0.04 s): objective=1.95375e+08 imbalance=1.110 nsplit=0         Iteration 20 (0.06 s, search 0.04 s): objective=1.95332e+08 imbalance=1.110 nsplit=0         Iteration 21 (0.07 s, search 0.04 s): objective=1.95297e+08 imbalance=1.109 nsplit=0         Iteration 22 (0.07 s, search 0.05 s): objective=1.95268e+08 imbalance=1.109 nsplit=0         Iteration 23 (0.07 s, search 0.05 s): objective=1.95259e+08 imbalance=1.108 nsplit=0         Iteration 24 (0.08 s, search 0.05 s): objective=1.95249e+08 imbalance=1.108 nsplit=0       [LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 9.470834016799927
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 9.317139148712158
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.038802146911621094
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.011282205581665039
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0017511844635009766
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0016198158264160156
+Number of feature vectors trained on: 5001
+Dilution level: 0
+Total feature vectors 5001
+Re-trained Index:
+min: 0.55
+q1: 0.7
+q2: 0.73
+q3: 0.8
+max: 0.93
+Diluted Index:
+min: 0.55
+q1: 0.7
+q2: 0.73
+q3: 0.8
+max: 0.93
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 9.050066947937012
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 11.10567831993103
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.018131017684936523
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.013399839401245117
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.00174713134765625
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0016906261444091797
+Number of feature vectors trained on: 5001
+Dilution level: 1000
+Total feature vectors 6001
+Re-trained Index:
+min: 0.56
+q1: 0.68
+q2: 0.72
+q3: 0.8
+max: 0.92
+Diluted Index:
+min: 0.57
+q1: 0.68
+q2: 0.73
+q3: 0.79
+max: 0.91
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 8.813606023788452
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 12.427359819412231
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.015579700469970703
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.015527009963989258
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0018436908721923828
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0018093585968017578
+Number of feature vectors trained on: 5001
+Dilution level: 2000
+Total feature vectors 7001
+Re-trained Index:
+min: 0.55
+q1: 0.6775
+q2: 0.74
+q3: 0.8
+max: 0.91
+Diluted Index:
+min: 0.56
+q1: 0.67
+q2: 0.73
+q3: 0.7925
+max: 0.94
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 8.893475532531738
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+Clustering 8001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=4.75955e+08 imbalance=1.636 nsplit=0         Iteration 1 (0.01 s, search 0.01 s): objective=3.26342e+08 imbalance=1.381 nsplit=0         Iteration 2 (0.02 s, search 0.01 s): objective=3.10761e+08 imbalance=1.315 nsplit=0         Iteration 3 (0.02 s, search 0.02 s): objective=3.04774e+08 imbalance=1.294 nsplit=0         Iteration 4 (0.02 s, search 0.02 s): objective=3.01824e+08 imbalance=1.280 nsplit=0         Iteration 5 (0.03 s, search 0.02 s): objective=2.99722e+08 imbalance=1.268 nsplit=0         Iteration 6 (0.04 s, search 0.02 s): objective=2.98321e+08 imbalance=1.263 nsplit=0         Iteration 7 (0.04 s, search 0.03 s): objective=2.97413e+08 imbalance=1.257 nsplit=0         Iteration 8 (0.05 s, search 0.03 s): objective=2.96815e+08 imbalance=1.255 nsplit=0         Iteration 9 (0.05 s, search 0.04 s): objective=2.96421e+08 imbalance=1.252 nsplit=0         Iteration 10 (0.06 s, search 0.04 s): objective=2.96084e+08 imbalance=1.249 nsplit=0         Iteration 11 (0.06 s, search 0.04 s): objective=2.95738e+08 imbalance=1.249 nsplit=0         Iteration 12 (0.07 s, search 0.05 s): objective=2.95518e+08 imbalance=1.248 nsplit=0         Iteration 13 (0.07 s, search 0.05 s): objective=2.95395e+08 imbalance=1.248 nsplit=0         Iteration 14 (0.07 s, search 0.05 s): objective=2.9526e+08 imbalance=1.248 nsplit=0         Iteration 15 (0.08 s, search 0.06 s): objective=2.95207e+08 imbalance=1.247 nsplit=0         Iteration 16 (0.08 s, search 0.06 s): objective=2.95164e+08 imbalance=1.247 nsplit=0         Iteration 17 (0.09 s, search 0.07 s): objective=2.95124e+08 imbalance=1.247 nsplit=0         Iteration 18 (0.09 s, search 0.07 s): objective=2.95093e+08 imbalance=1.246 nsplit=0         Iteration 19 (0.10 s, search 0.07 s): objective=2.95073e+08 imbalance=1.246 nsplit=0         Iteration 20 (0.10 s, search 0.08 s): objective=2.95052e+08 imbalance=1.246 nsplit=0         Iteration 21 (0.11 s, search 0.08 s): objective=2.95034e+08 imbalance=1.246 nsplit=0         Iteration 22 (0.12 s, search 0.09 s): objective=2.9502e+08 imbalance=1.246 nsplit=0         Iteration 23 (0.12 s, search 0.09 s): objective=2.94993e+08 imbalance=1.245 nsplit=0         Iteration 24 (0.12 s, search 0.09 s): objective=2.94973e+08 imbalance=1.244 nsplit=0       
+Clustering 5001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.16362e+08 imbalance=1.533 nsplit=0         Iteration 1 (0.01 s, search 0.01 s): objective=2.15037e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.01 s, search 0.01 s): objective=2.05306e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.01 s, search 0.01 s): objective=2.01635e+08 imbalance=1.166 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=1.99746e+08 imbalance=1.155 nsplit=0         Iteration 5 (0.03 s, search 0.02 s): objective=1.9877e+08 imbalance=1.146 nsplit=0         Iteration 6 (0.04 s, search 0.03 s): objective=1.98074e+08 imbalance=1.137 nsplit=0         Iteration 7 (0.05 s, search 0.04 s): objective=1.97402e+08 imbalance=1.130 nsplit=0         Iteration 8 (0.07 s, search 0.06 s): objective=1.97013e+08 imbalance=1.125 nsplit=0         Iteration 9 (0.08 s, search 0.07 s): objective=1.96742e+08 imbalance=1.122 nsplit=0         Iteration 10 (0.08 s, search 0.07 s): objective=1.96517e+08 imbalance=1.122 nsplit=0         Iteration 11 (0.08 s, search 0.07 s): objective=1.96304e+08 imbalance=1.119 nsplit=0         Iteration 12 (0.09 s, search 0.08 s): objective=1.9614e+08 imbalance=1.117 nsplit=0         Iteration 13 (0.10 s, search 0.08 s): objective=1.96016e+08 imbalance=1.115 nsplit=0         Iteration 14 (0.10 s, search 0.08 s): objective=1.95879e+08 imbalance=1.113 nsplit=0         Iteration 15 (0.11 s, search 0.09 s): objective=1.95728e+08 imbalance=1.111 nsplit=0         Iteration 16 (0.11 s, search 0.09 s): objective=1.95597e+08 imbalance=1.111 nsplit=0         Iteration 17 (0.12 s, search 0.09 s): objective=1.95496e+08 imbalance=1.112 nsplit=0         Iteration 18 (0.12 s, search 0.10 s): objective=1.9541e+08 imbalance=1.111 nsplit=0         Iteration 19 (0.12 s, search 0.10 s): objective=1.95375e+08 imbalance=1.110 nsplit=0         Iteration 20 (0.12 s, search 0.10 s): objective=1.95332e+08 imbalance=1.110 nsplit=0         Iteration 21 (0.13 s, search 0.10 s): objective=1.95297e+08 imbalance=1.109 nsplit=0         Iteration 22 (0.13 s, search 0.10 s): objective=1.95268e+08 imbalance=1.109 nsplit=0         Iteration 23 (0.13 s, search 0.10 s): objective=1.95259e+08 imbalance=1.108 nsplit=0         Iteration 24 (0.13 s, search 0.10 s): objective=1.95249e+08 imbalance=1.108 nsplit=0       
+Clustering 9001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=5.18723e+08 imbalance=1.478 nsplit=0         Iteration 1 (0.01 s, search 0.01 s): objective=3.57974e+08 imbalance=1.262 nsplit=0         Iteration 2 (0.01 s, search 0.01 s): objective=3.44214e+08 imbalance=1.213 nsplit=0         Iteration 3 (0.02 s, search 0.01 s): objective=3.39237e+08 imbalance=1.190 nsplit=0         Iteration 4 (0.03 s, search 0.02 s): objective=3.36467e+08 imbalance=1.178 nsplit=0         Iteration 5 (0.03 s, search 0.02 s): objective=3.34635e+08 imbalance=1.170 nsplit=0         Iteration 6 (0.04 s, search 0.03 s): objective=3.33443e+08 imbalance=1.163 nsplit=0         Iteration 7 (0.04 s, search 0.03 s): objective=3.32555e+08 imbalance=1.159 nsplit=0         Iteration 8 (0.05 s, search 0.04 s): objective=3.31918e+08 imbalance=1.155 nsplit=0         Iteration 9 (0.05 s, search 0.04 s): objective=3.3136e+08 imbalance=1.149 nsplit=0         Iteration 10 (0.06 s, search 0.05 s): objective=3.30855e+08 imbalance=1.145 nsplit=0         Iteration 11 (0.06 s, search 0.05 s): objective=3.30432e+08 imbalance=1.142 nsplit=0         Iteration 12 (0.07 s, search 0.06 s): objective=3.3004e+08 imbalance=1.143 nsplit=0         Iteration 13 (0.08 s, search 0.06 s): objective=3.29645e+08 imbalance=1.144 nsplit=0         Iteration 14 (0.11 s, search 0.08 s): objective=3.2928e+08 imbalance=1.142 nsplit=0         Iteration 15 (0.13 s, search 0.10 s): objective=3.29039e+08 imbalance=1.141 nsplit=0         Iteration 16 (0.14 s, search 0.11 s): objective=3.2885e+08 imbalance=1.139 nsplit=0         Iteration 17 (0.16 s, search 0.12 s): objective=3.28725e+08 imbalance=1.139 nsplit=0         Iteration 18 (0.17 s, search 0.13 s): objective=3.28605e+08 imbalance=1.138 nsplit=0         Iteration 19 (0.18 s, search 0.14 s): objective=3.28511e+08 imbalance=1.137 nsplit=0         Iteration 20 (0.18 s, search 0.14 s): objective=3.28459e+08 imbalance=1.137 nsplit=0         Iteration 21 (0.19 s, search 0.15 s): objective=3.28409e+08 imbalance=1.137 nsplit=0         Iteration 22 (0.19 s, search 0.15 s): objective=3.28364e+08 imbalance=1.137 nsplit=0         Iteration 23 (0.19 s, search 0.15 s): objective=3.28295e+08 imbalance=1.137 nsplit=0         Iteration 24 (0.20 s, search 0.16 s): objective=3.2814e+08 imbalance=1.138 nsplit=0       
+Clustering 5001 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=3.16362e+08 imbalance=1.533 nsplit=0         Iteration 1 (0.02 s, search 0.01 s): objective=2.15037e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.02 s, search 0.01 s): objective=2.05306e+08 imbalance=1.193 nsplit=0         Iteration 3 (0.02 s, search 0.01 s): objective=2.01635e+08 imbalance=1.166 nsplit=0         Iteration 4 (0.02 s, search 0.01 s): objective=1.99746e+08 imbalance=1.155 nsplit=0         Iteration 5 (0.03 s, search 0.02 s): objective=1.9877e+08 imbalance=1.146 nsplit=0         Iteration 6 (0.03 s, search 0.02 s): objective=1.98074e+08 imbalance=1.137 nsplit=0         Iteration 7 (0.03 s, search 0.02 s): objective=1.97402e+08 imbalance=1.130 nsplit=0         Iteration 8 (0.04 s, search 0.02 s): objective=1.97013e+08 imbalance=1.125 nsplit=0         Iteration 9 (0.04 s, search 0.02 s): objective=1.96742e+08 imbalance=1.122 nsplit=0         Iteration 10 (0.04 s, search 0.02 s): objective=1.96517e+08 imbalance=1.122 nsplit=0         Iteration 11 (0.04 s, search 0.03 s): objective=1.96304e+08 imbalance=1.119 nsplit=0         Iteration 12 (0.05 s, search 0.03 s): objective=1.9614e+08 imbalance=1.117 nsplit=0         Iteration 13 (0.05 s, search 0.03 s): objective=1.96016e+08 imbalance=1.115 nsplit=0         Iteration 14 (0.05 s, search 0.03 s): objective=1.95879e+08 imbalance=1.113 nsplit=0         Iteration 15 (0.05 s, search 0.03 s): objective=1.95728e+08 imbalance=1.111 nsplit=0         Iteration 16 (0.06 s, search 0.03 s): objective=1.95597e+08 imbalance=1.111 nsplit=0         Iteration 17 (0.06 s, search 0.03 s): objective=1.95496e+08 imbalance=1.112 nsplit=0         Iteration 18 (0.06 s, search 0.04 s): objective=1.9541e+08 imbalance=1.111 nsplit=0         Iteration 19 (0.06 s, search 0.04 s): objective=1.95375e+08 imbalance=1.110 nsplit=0         Iteration 20 (0.07 s, search 0.04 s): objective=1.95332e+08 imbalance=1.110 nsplit=0         Iteration 21 (0.07 s, search 0.04 s): objective=1.95297e+08 imbalance=1.109 nsplit=0         Iteration 22 (0.07 s, search 0.04 s): objective=1.95268e+08 imbalance=1.109 nsplit=0         Iteration 23 (0.07 s, search 0.04 s): objective=1.95259e+08 imbalance=1.108 nsplit=0         Iteration 24 (0.08 s, search 0.04 s): objective=1.95249e+08 imbalance=1.108 nsplit=0       
+Clustering 10000 points in 32D to 64 clusters, redo 1 times, 25 iterations
+  Preprocessing in 0.00 s
+  Iteration 0 (0.00 s, search 0.00 s): objective=5.99709e+08 imbalance=1.486 nsplit=1         Iteration 1 (0.01 s, search 0.01 s): objective=4.06372e+08 imbalance=1.254 nsplit=0         Iteration 2 (0.01 s, search 0.01 s): objective=3.89328e+08 imbalance=1.198 nsplit=0         Iteration 3 (0.03 s, search 0.02 s): objective=3.81722e+08 imbalance=1.160 nsplit=0         Iteration 4 (0.03 s, search 0.03 s): objective=3.77948e+08 imbalance=1.138 nsplit=0         Iteration 5 (0.04 s, search 0.03 s): objective=3.75373e+08 imbalance=1.121 nsplit=0         Iteration 6 (0.04 s, search 0.03 s): objective=3.73763e+08 imbalance=1.110 nsplit=0         Iteration 7 (0.05 s, search 0.04 s): objective=3.72678e+08 imbalance=1.109 nsplit=0         Iteration 8 (0.05 s, search 0.04 s): objective=3.71909e+08 imbalance=1.104 nsplit=0         Iteration 9 (0.09 s, search 0.08 s): objective=3.71075e+08 imbalance=1.101 nsplit=0         Iteration 10 (0.10 s, search 0.09 s): objective=3.70307e+08 imbalance=1.104 nsplit=0         Iteration 11 (0.11 s, search 0.09 s): objective=3.69716e+08 imbalance=1.103 nsplit=0         Iteration 12 (0.11 s, search 0.10 s): objective=3.69214e+08 imbalance=1.102 nsplit=0         Iteration 13 (0.12 s, search 0.10 s): objective=3.68792e+08 imbalance=1.100 nsplit=0         Iteration 14 (0.13 s, search 0.11 s): objective=3.68442e+08 imbalance=1.099 nsplit=0         Iteration 15 (0.13 s, search 0.11 s): objective=3.68201e+08 imbalance=1.098 nsplit=0         Iteration 16 (0.14 s, search 0.11 s): objective=3.67933e+08 imbalance=1.100 nsplit=0         Iteration 17 (0.14 s, search 0.12 s): objective=3.67758e+08 imbalance=1.100 nsplit=0         Iteration 18 (0.14 s, search 0.12 s): objective=3.67647e+08 imbalance=1.100 nsplit=0         Iteration 19 (0.15 s, search 0.12 s): objective=3.67565e+08 imbalance=1.102 nsplit=0         Iteration 20 (0.15 s, search 0.13 s): objective=3.67468e+08 imbalance=1.103 nsplit=0         Iteration 21 (0.15 s, search 0.13 s): objective=3.67413e+08 imbalance=1.102 nsplit=0         Iteration 22 (0.16 s, search 0.13 s): objective=3.67372e+08 imbalance=1.101 nsplit=0         Iteration 23 (0.17 s, search 0.14 s): objective=3.67352e+08 imbalance=1.101 nsplit=0         Iteration 24 (0.17 s, search 0.14 s): objective=3.67339e+08 imbalance=1.100 nsplit=0       
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 14.247743606567383
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.03077220916748047
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.01781773567199707
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.001992464065551758
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0019712448120117188
+Number of feature vectors trained on: 5001
+Dilution level: 3000
+Total feature vectors 8001
+Re-trained Index:
+min: 0.53
+q1: 0.67
+q2: 0.73
+q3: 0.79
+max: 0.9
+Diluted Index:
+min: 0.56
+q1: 0.68
+q2: 0.72
+q3: 0.78
+max: 0.91
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 9.222768783569336
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 16.256555795669556
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.08649849891662598
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.01987934112548828
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0020787715911865234
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0020453929901123047
+Number of feature vectors trained on: 5001
+Dilution level: 4000
+Total feature vectors 9001
+Re-trained Index:
+min: 0.49
+q1: 0.66
+q2: 0.72
+q3: 0.79
+max: 0.9
+Diluted Index:
+min: 0.48
+q1: 0.67
+q2: 0.72
+q3: 0.78
+max: 0.91
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 9.305176258087158
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:104
+	* Training coarse quantizer
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:122
+	* Training index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:137
+	* Training finished in 17.737640380859375
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.022438526153564453
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:148
+	* Adding images to index
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:157
+	* Adding finished in 0.02305889129638672
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0021805763244628906
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:175
+	* Querying image features
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:178
+	* Querying finished in 0.0021131038665771484
+Number of feature vectors trained on: 5001
+Dilution level: 5000
+Total feature vectors 10000
+Re-trained Index:
+min: 0.48
+q1: 0.66
+q2: 0.71
+q3: 0.78
+max: 0.91
+Diluted Index:
+min: 0.45
+q1: 0.65
+q2: 0.71
+q3: 0.77
+max: 0.9
+
+[LOG] - /home/wtheisen/Dropbox/linux_files/programs/semafor_pipeline/provenance/bill_rewrite/index_class.py:87
+	* Training preprocessor
