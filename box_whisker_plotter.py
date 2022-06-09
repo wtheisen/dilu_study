@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 from imgcat import imgcat
 
-def box_plotter(file_path, recall):
+def box_plotter(file_path):
     with open(file_path) as f:
         results_json = json.load(f)
 
@@ -12,21 +12,23 @@ def box_plotter(file_path, recall):
 
     gt_avg_change = []
 
+    # for i in zip(list(results_json['trained_core_queries'].values()),
+    #         list(results_json['dilued_core_queries'].values()),
+    #         list(results_json['trained_dilu_queries'].values()),
+    #         list(results_json['dilued_dilu_queries'].values()),
+    #         list(results_json['g_t_deltas'].values())):
+    for i in list(results_json['trained'].keys()):
+            data_core_queries.append(results_json['trained'][i])
+            data_dilu_queries.append(results_json['dilued'][i])
 
-    for i in zip(list(results_json['trained_core_queries'].values()),
-            list(results_json['dilued_core_queries'].values()),
-            list(results_json['trained_dilu_queries'].values()),
-            list(results_json['dilued_dilu_queries'].values()),
-            list(results_json['g_t_deltas'].values())):
+    #     if i[0] != []:
+    #         data_core_queries.append(i[0])
+    #         data_core_queries.append(i[1])
 
-        if i[0] != []:
-            data_core_queries.append(i[0])
-            data_core_queries.append(i[1])
+    #         data_dilu_queries.append(i[2])
+    #         data_dilu_queries.append(i[3])
 
-            data_dilu_queries.append(i[2])
-            data_dilu_queries.append(i[3])
-
-            gt_avg_change.append(i[4][0] / recall)
+    #         gt_avg_change.append(i[4][0] / recall)
 
     labels = []
     positions = []
@@ -35,7 +37,8 @@ def box_plotter(file_path, recall):
     trained_x = []
     dilued_x = []
 
-    for i in range(0, len(data_core_queries), 2):
+    # for i in range(0, len(data_core_queries), 2):
+    for i in range(0, len(data_core_queries)):
         positions.append(init)
         positions.append(init + 0.6)
 
@@ -44,36 +47,43 @@ def box_plotter(file_path, recall):
 
         init += 1.5
 
-        labels.append(str(i) + '%_T')
-        labels.append(str(i) + '%_D')
+        labels.append(str(i * 100) + '%_T')
+        labels.append(str(i * 100) + '%_D')
+
+    # positions = positions[:-1]
+    # labels = labels[:-1]
 
 
-    fig, (ax1, ax2) = plt.subplots(2, sharex=True)
+    # fig, (ax1, ax2) = plt.subplots(2, sharex=True)
+    fig, ax1 = plt.subplots()
 
     ax_right = ax1.twinx()
 
     print(len(data_core_queries), len(data_dilu_queries), len(positions), len(labels))
 
-    ax1.boxplot(data_core_queries, 0, '',
+    test = [v for p in zip(data_core_queries, data_dilu_queries) for v in p]
+
+    ax1.boxplot(test, 0, '',
         positions=positions,
         labels=labels)
 
-    ax2.boxplot(data_dilu_queries, 0, '',
-        positions=positions,
-        labels=labels)
+    # ax2.boxplot(data_dilu_queries, 0, '',
+    #     positions=positions,
+    #     labels=labels)
 
     ax1.set_xlabel('Dilution level')
-    ax1.set_ylabel('mAP (Image, Core)')
-    ax2.set_ylabel('mAP (Image, Dilu)')
+    ax1.set_ylabel('Retrieval Accuracy')
+    # ax2.set_ylabel('mAP (Image, Dilu)')
 
-    ax_right.plot(trained_x, gt_avg_change, label='Average GT delta')
-    ax_right.set_ylabel('Average GT change')
+    # ax_right.plot(trained_x, gt_avg_change, label='Average GT delta')
+    # ax_right.set_ylabel('Average GT change')
 
-    ax2.xaxis.set_tick_params(rotation=-45)
+    # ax2.xaxis.set_tick_params(rotation=-45)
+    ax1.xaxis.set_tick_params(rotation=-45)
     plt.legend()
-    plt.title('SURF Indo study: Q50/R50/DQ5/DS15/T10')
+    plt.title('SIFT-10k Retrieval Accuracy Decay (10 time steps)')
 
     imgcat(fig)
 
 if __name__ == '__main__':
-    box_plotter('./surf_indo_q25_r25_dq5_ds15_t5_results.json', 25)
+    box_plotter('./sift_1m_rewrite_results_step_retrain.json')
